@@ -1,1 +1,1 @@
-A small scripts for checking machines status
+A small script for checking machines status
